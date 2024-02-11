@@ -1,2 +1,2 @@
 # TEC_Data
-The European Correspondent Data team notebooks and source files
+The European Correspondent data team notebooks and source files
